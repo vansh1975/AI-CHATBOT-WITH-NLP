@@ -63,3 +63,4 @@ In a professional environment, these skills are used to build customer support b
 
 
 *Output*
+<img width="681" height="303" alt="Image" src="https://github.com/user-attachments/assets/127c12b8-f469-424b-9ffc-d32b8ebab6cc" />
