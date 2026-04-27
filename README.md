@@ -54,12 +54,12 @@ Efficiency: Building a lightweight chatbot for specific tasks (like an FAQ bot) 
 
 Data Privacy: Local NLP scripts keep user data on your own machine rather than sending it to an external cloud server.
 
-Customization: You have total control over the "personality" and the boundaries of the chatbot’s knowledge.
+Customization: I have total control over the "personality" and the boundaries of the chatbot’s knowledge.
 
 4. Deliverables and Real-World Impact
-Your final deliverable—the Python Script and the Working Chatbot—represents a "Virtual Assistant" prototype.
+My final deliverable—the Python Script and the Working Chatbot—represents a "Virtual Assistant" prototype.
 
-In a professional environment, these skills are used to build customer support bots, automated appointment schedulers, and sentiment analysis tools. By demonstrating this in a Jupyter Notebook, you show that you can handle the "Pre-processing → Feature Extraction → Response" loop that governs almost all modern AI interactions. You have successfully moved from being a data analyst to an AI Developer, capable of creating systems that can "listen" and "talk" to users.
+In a professional environment, these skills are used to build customer support bots, automated appointment schedulers, and sentiment analysis tools. By demonstrating this in a Jupyter Notebook, I have  shown that I can handle the "Pre-processing → Feature Extraction → Response" loop that governs almost all modern AI interactions. I have successfully moved from being a data analyst to an AI Developer, capable of creating systems that can "listen" and "talk" to users.
 
 
 *Output*
